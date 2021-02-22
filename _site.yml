@@ -1,0 +1,9 @@
+name: "Yuqings-website"
+navbar:
+  title: "Yuqings' Website"
+  left:
+    - text: "Cars"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: "."
