@@ -19,6 +19,8 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+![](https://tesla-cdn.thron.com/delivery/public/image/tesla/088d64b2-afcc-43c6-9fa1-8f37e567a3d0/bvlatuR/std/2880x2400/desktop_model_3_v2)
+
 ## Including Plots
 
 You can also embed plots, for example:
