@@ -2,7 +2,9 @@
 title: "Yuqings' Website"
 author: "Yuqing Chen & Yuqing Zhang"
 date: "2/23/2021"
-output: html_document
+output: 
+  html_document:
+    self_contained: no
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +21,9 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-![](https://images.app.goo.gl/vYCqjYzPD39FLEfs7)
+![](https://tesla-cdn.thron.com/delivery/public/image/tesla/088d64b2-afcc-43c6-9fa1-8f37e567a3d0/bvlatuR/std/2880x2400/desktop_model_3_v2)
+
+![](https://survivethis.news/wp-content/uploads/2020/12/cyberpunk-2077-vehicle-class-economy.jpg)
 
 ## Including Plots
 
